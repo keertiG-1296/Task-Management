@@ -75,7 +75,7 @@ Start the React development server:
 npm start
 
 ```
-✅ Frontend will run at:
+ Frontend will run at:
 ```bash
 http://localhost:3000/
 ```
