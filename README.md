@@ -79,7 +79,8 @@ npm start
 ```bash
 http://localhost:3000/
 ```
-🔗 Running Both Together
+ Running Both Together
 ```bash
 Backend → http://127.0.0.1:8000
+Frontend → http://localhost:3000/
 ```
