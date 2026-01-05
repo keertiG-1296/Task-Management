@@ -1,7 +1,7 @@
 Task Management Application
 ```bash
 
-A full-stack Task Management application built with Django (Backend) and React (Frontend).
+A full-stack Task Management application built with Django (Backend) with API documenation (swagger/docs) and React (Frontend).
 ```
 
  How to Run the Project Locally
