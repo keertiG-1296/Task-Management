@@ -832,3 +832,6 @@ Traceback (most recent call last):
     return super().execute(query, params)
            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
 django.db.utils.IntegrityError: UNIQUE constraint failed: accounts_user.email
+WARNING 2026-01-26 13:46:56,181 log Bad Request: /api/v1/accounts/register/
+INFO 2026-01-26 14:03:02,556 autoreload C:\Users\HP\Task-Management\accounts\models.py changed, reloading.
+INFO 2026-01-26 14:03:04,183 autoreload Watching for file changes with StatReloader
